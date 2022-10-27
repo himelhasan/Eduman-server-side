@@ -14,6 +14,11 @@ app.get("/courses", (req, res) => {
   res.send(courseData);
 });
 
+app.get("/allCategory", (req, res) => {
+  const allCategory = courseData.map(({ category }) => category);
+  res.send(allCategory);
+});
+
 app.get("/course/:id", (req, res) => {
   const id = req.params.id;
   const singleCourse = courseData.find((course) => course.id == id) || {};
