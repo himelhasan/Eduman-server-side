@@ -14,7 +14,7 @@
         "name": "Joeel & Natalie Rivera",
         "img_url": "https://img-c.udemycdn.com/user/200_H/988786_3723_6.jpg",
         "reviews": "170,667",
-        "instructor_rating": 4.5,
+        "instructor_rating": 4.9,
         "students": 526058,
         "courses": 98
       }
@@ -22,70 +22,73 @@
     "skillLevel": "Expert",
     "language": "English",
     "certificate": "true",
-    "enrolled": 456,
-    "tags": "BEST SELLER"
+    "enrolled": 956,
+    "tags": "BEST SELLER",
+    "price": 299
   },
   {
     "id": "23ghj-4b2f-a74d-a77b36ead",
     "courseName": "Cross-Cultural Communication: How To Flex Your Style",
     "category": "Business Communication",
-    "duration": 30,
+    "duration": 25,
     "description": "Cross-Cultural Communication: Using language Appropriately, Expressions, Gestures & Cues, Cultural Profiles & more!   Understanding how to effectively communicate cross-culturally, is more important today than ever before! If you want to gain a strong understanding for how to communicate with people from different cultures than this is the course for you! Cross-cultural Communication: How To Flex Your Style introduces you to a cultural profile which will help you understand how you perceive various cultures as well as different aspect of what makes people unique based on their personality compared to their cultural background. You will learn about Geert Hofstede's Model in detail, learning the six dimensions; power distance, individual vs. collective, assertiveness vs modesty, risk tolerance, short-term and long-term, and indulgence vs well-being. You'll learn all this and more and you'll learn how to do it in a way that's both informative and engaging! ",
     "image": "https://img-c.udemycdn.com/course/240x135/1366348_9ff2_5.jpg",
     "addedInList": false,
-    "lessons": 5,
-    "quizzes": 4,
+    "lessons": 9,
+    "quizzes": 6,
     "author": [
       {
         "name": "Lorraine Wiseman",
         "img_url": "https://img-c.udemycdn.com/user/200_H/33151704_1653_2.jpg",
         "reviews": "670,67",
-        "instructor_rating": 4.5,
-        "students": 6058,
-        "courses": 68
+        "instructor_rating": 4.8,
+        "students": 1078,
+        "courses": 79
       }
     ],
-    "skillLevel": "Beginner",
+    "skillLevel": "Advanced",
     "language": "English",
     "certificate": "true",
-    "enrolled": 456,
-    "tags": "NEW"
+    "enrolled": 156,
+    "tags": "NEW",
+    "price": 199
   },
   {
     "id": "23gj-4b2f-a74d-a77b362ead",
     "courseName": "Customer Success | How to Understand Your Customers",
     "category": "Customer Success Management",
-    "duration": 30,
+    "duration": 55,
     "description": "If you want to deliver the fantastic results your company needs in today's crazy marketplace, it’s time to start listening to your customers like never before. Listening is the where you start; it's the beginning of deeper understanding.  Understanding your customers provides you with clear insight.  And this clear insight will help you solve the real problems they need to solve.  But, it’s not always easy to understand today's customers because they can be hard to figure out.  So you’ve got to go deeper and become an “Insight Miner.”  This course will show you how to begin.",
     "image": "https://img-c.udemycdn.com/course/240x135/120872_80cf_16.jpg",
     "addedInList": false,
-    "lessons": 5,
-    "quizzes": 4,
+    "lessons": 15,
+    "quizzes": 10,
     "author": [
       {
         "name": "Chuck Wall",
         "img_url": "https://img-c.udemycdn.com/user/200_H/847720_8c65_4.jpg",
         "reviews": "170,667",
-        "instructor_rating": 4.5,
+        "instructor_rating": 4.7,
         "students": 526058,
-        "courses": 98
+        "courses": 108
       }
     ],
     "skillLevel": "Beginner",
     "language": "English",
     "certificate": "true",
     "enrolled": 456,
-    "tags": "POPULAR"
+    "tags": "POPULAR",
+    "price": 399
   },
   {
     "id": "23ghj-4b2f-a7d-a77b3626ead",
     "courseName": "You Can Speak Like a Leader",
     "category": "Personal Development",
-    "duration": 30,
+    "duration": 19.5,
     "description": "You can project authority and confidence and demonstrate leadership every time you speak.The Leadership skill you will learn in this class is not primarily theoretical or academic. It is a skill that requires physical habits. That is why you will be asked to take part in numerous exercises where you record yourself speaking on video, and then watching yourself. Learning presentation skills is like learning how to ride a bicycle. You simply have to do it numerous times and work past the wobbling and falling off parts until you get it right. This course contains numerous video lectures plus several bonus books for your training library. TJ Walker has been coaching and training people on their presentation skills for 30 years. Now, through the power of Udemy's online platform, he is able to give you the same high quality training that he gives in person to CEOs, Fortune 500 executives, and Presidents of countries. Only you can now receive the training at a tiny fraction of the normal fee for in-person training.  ",
     "image": "https://img-c.udemycdn.com/course/240x135/362548_1d05_4.jpg",
     "addedInList": false,
-    "lessons": 5,
+    "lessons": 4,
     "quizzes": 4,
     "author": [
       {
@@ -93,25 +96,26 @@
         "img_url": "https://www.udemy.com/user/tjwalker2/",
         "reviews": "170,667",
         "instructor_rating": 4.5,
-        "students": 526058,
-        "courses": 98
+        "students": 968058,
+        "courses": 38
       }
     ],
-    "skillLevel": "Beginner",
+    "skillLevel": "Advanced",
     "language": "English",
     "certificate": "true",
-    "enrolled": 456,
-    "tags": "BEST SELLER"
+    "enrolled": 7156,
+    "tags": "BEST SELLER",
+    "price": 169
   },
   {
     "id": "23ghj-4b2f-a74d-7b362d6ead",
     "courseName": "Recruiter Training - Hire Top Employees in under 30 days",
     "category": "Human Resources",
-    "duration": 30,
+    "duration": 65,
     "description": "Proven recruiting formula to hiring top employees in a month. Used by EY, IBM, eBay & more. Do you want to hire top candidates quickly? Are you interested in freeing up your schedule from recruiting to focus on other aspects of your job? Are you interested in turning your hiring efforts into an efficient, repeatable recruitment system? Learn how we cut our time-to-hire to under 30 days, while at the same time improving quality of hire in our easy online recruiter training course. We have designed this course so that you can take action. The course is broken down into bite sized videos, with practical action points for each one. You can then go back to each video at a later date to review - you own this course for life!    This course is designed for everyone from those having absolutely zero recruiting experience, all the way up to seasoned professionals. We believe in our course because the steps we have developed have made us extremely successful in the recruitment field. Just be willing to follow the steps, and follow it through to the end, and you will be able to hire top talent within 30 days.",
     "image": "https://miro.medium.com/max/1400/0*imZKyHtT59KOUKDF",
     "addedInList": false,
-    "lessons": 5,
+    "lessons": 15,
     "quizzes": 4,
     "author": [
       {
@@ -119,21 +123,22 @@
         "img_url": "https://img-c.udemycdn.com/user/200_H/27804909_de78.jpg",
         "reviews": "170,667",
         "instructor_rating": 4.6,
-        "students": 526058,
+        "students": 1026058,
         "courses": 98
       }
     ],
     "skillLevel": "Beginner",
     "language": "English",
     "certificate": "true",
-    "enrolled": 456,
-    "tags": "NEW"
+    "enrolled": 9567,
+    "tags": "NEW",
+    "price": 349
   },
   {
     "id": "23ghj-4b2f-a74d-a77b362ead",
     "courseName": "Contracts Management in Construction Projects",
     "category": "Contract Management",
-    "duration": 30,
+    "duration": 27,
     "description": "Contracts Management, Contract Administration, FIDIC, Bank Guarantees, Contracts, Letter Drafting, Quantity Surveying. Every construction project is bound by a Contract. Proper Contract Management plays a major role in the effective management of your construction projects. Adhering to all the Contractual obligations, the terms and conditions can save both cost and time. There are a few standard Contract Forms that is followed in a Construction project mainly FIDIC (International Federation of Consulting Engineers), NRM (New Rules of Measurement), JCT (The Joint Contracts Tribunal). The procedures to commence work, the documents required at each stage of the project, variation procedures, payment terms, basis for termination and suspension of works by either parties, completion of work, roles and responsibilities of all the stake holders and their staffs, dispute resolution methods, Arbitration procedures etc are all mentioned in the contract.    ",
     "image": "https://img-c.udemycdn.com/course/240x135/3941874_73be.jpg",
     "addedInList": false,
@@ -144,15 +149,16 @@
         "name": "Akhil Krishna        ",
         "img_url": "https://img-c.udemycdn.com/user/200_H/127691634_b6c6_2.jpg",
         "reviews": "170,667",
-        "instructor_rating": 4.5,
-        "students": 526058,
-        "courses": 98
+        "instructor_rating": 4.2,
+        "students": 326058,
+        "courses": 67
       }
     ],
-    "skillLevel": "Beginner",
+    "skillLevel": "Expert",
     "language": "English",
     "certificate": "true",
-    "enrolled": 456,
-    "tags": "POPULAR"
+    "enrolled": 856,
+    "tags": "POPULAR",
+    "price": 99
   }
 ]
