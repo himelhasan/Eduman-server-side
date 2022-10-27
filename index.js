@@ -22,6 +22,15 @@ app.get("/allCategory", (req, res) => {
   res.send(allCategory);
 });
 
+app.get("/allTags", (req, res) => {
+  const allTags = courseData.map(({ tags }) => {
+    return tags;
+  });
+  const singleTags = [...new Set(allTags)];
+
+  res.send(singleTags);
+});
+
 app.get("/course/:id", (req, res) => {
   const id = req.params.id;
   const singleCourse = courseData.find((course) => course.id == id) || {};
