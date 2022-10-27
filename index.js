@@ -15,7 +15,10 @@ app.get("/courses", (req, res) => {
 });
 
 app.get("/allCategory", (req, res) => {
-  const allCategory = courseData.map(({ category }) => category);
+  const allCategory = courseData.map(({ category }) => {
+    return { categoryName: category };
+  });
+
   res.send(allCategory);
 });
 
